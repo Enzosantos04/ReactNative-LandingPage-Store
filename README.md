@@ -3,9 +3,9 @@ A store landing page developed using React Native, themed after Fluminense Footb
 
 # Features
 
-# FlatList used for efficiently displaying data.
-# Use of React Native components and styling.
-# Modular components and props-based design for flexibility.
+ FlatList used for efficiently displaying data.
+ Use of React Native components and styling.
+ Modular components and props-based design for flexibility.
 
 # Prerequisites
 Make sure you have the following installed:
