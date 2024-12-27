@@ -29,7 +29,7 @@ To run the project using Expo:
  Expo Go is available for both iOS and Android in their respective app stores.
 
 ## Project Structure
-
+- **App.tsx**: The app.tsx file serves as the main entry point for the app. It imports and displays the data by using FlatList to render the content dynamically. The file is responsible for structuring the UI and organizing how the content from data.tsx is presented within the app.
 - **data.tsx**: Contains the data to be displayed in the app.
 
 - **components.tsx**: Defines the components, props, and styles used to structure and style the content.
