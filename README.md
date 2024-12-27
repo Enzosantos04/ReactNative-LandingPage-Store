@@ -25,6 +25,8 @@ After running this command, Expo will open a web page with a QR code. Scan this 
 
 Expo Go is available for both iOS and Android in their respective app stores.
 
-# Project Structure
-data.tsx: Contains the data to be displayed in the app.
-components.tsx: Defines the components, props, and styles used to structure and style the content.
+## Project Structure
+
+- **data.tsx**: Contains the data to be displayed in the app.
+
+- **components.tsx**: Defines the components, props, and styles used to structure and style the content.
