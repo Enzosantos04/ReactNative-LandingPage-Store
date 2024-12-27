@@ -18,6 +18,7 @@ Expo CLI
 To run the project using Expo:
 
 Start the Expo development server:
+
 npx expo start
 
 After running this command, Expo will open a web page with a QR code. Scan this QR code using the Expo Go app on your mobile device to view the project live.
