@@ -26,7 +26,7 @@ To run the project using Expo:
    npx expo start
  2. After running this command, Expo will open a web page with a QR code. Scan this QR code using the Expo Go app on your mobile device to view the project live.
 
-Expo Go is available for both iOS and Android in their respective app stores.
+ Expo Go is available for both iOS and Android in their respective app stores.
 
 ## Project Structure
 
